@@ -8,6 +8,11 @@
 
 ![imagem-projeto-final](apeperia.png)
 ![imagem-projeto-final](apeperia2.png)
+![imagem-projeto-final](apeperia3.png)
+![imagem-projeto-final](apeperia4.png)
+![imagem-projeto-final](apeperia5.png)
+![imagem-projeto-final](apeperia6.png)
+
 
 ---
 ## 💻 Tecnologias utilizadas
