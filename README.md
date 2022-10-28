@@ -7,6 +7,7 @@
 ## :framed_picture: Imagens do Projeto
 
 ![imagem-projeto-final](apeperia.png)
+![imagem-projeto-final](apeperia2.png)
 
 ---
 ## 💻 Tecnologias utilizadas
