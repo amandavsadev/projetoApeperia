@@ -36,9 +36,11 @@
     </td>
   </tr>
 </table>   
-   Linkedin: https://www.linkedin.com/in/amandavsamorim/ <br>
-   E-mail: amandavsadev@gmail.com <br>
+   LinkedIn: https://www.linkedin.com/in/amandavsamorim/ <br>
    Telegram: https://t.me/amandavsamorim
+   
+   E-mail: amandavsadev@gmail.com
+   
    
   ## 📝 Licença
   
