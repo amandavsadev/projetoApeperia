@@ -1,4 +1,4 @@
-# [Projeto Apeperia](https://amandavsadev.github.io/marketingCriativo/) | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML e <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS.
+# [Projeto Apeperia](https://amandavsadev.github.io/projetoApeperia/) | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML e <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS.
 
 ## :page_facing_up: Sobre o Projeto
 - Este projeto foi desenvolvido através de um curso proporcionado pela [Alura](https://github.com/alura-cursos) com o intuito de colocar em prática os conhecimentos em HTML5, CSS3 e os conceitos de responsividade.
